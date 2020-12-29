@@ -1,26 +1,17 @@
-# DimensionalEdibles
-[![Downloads](http://cf.way2muchnoise.eu/full_dimensional-edibles_downloads.svg)](https://minecraft.curseforge.com/projects/dimensional-edibles) [![MCVersion](http://cf.way2muchnoise.eu/versions/dimensional-edibles.svg)](https://minecraft.curseforge.com/projects/dimensional-edibles)
+# DimensionalEdibles: Omnifactory Edition
+[![Downloads](http://cf.way2muchnoise.eu/full_dimensional-edibles-omnifactory-edition_downloads.svg)](https://minecraft.curseforge.com/projects/dimensional-edibles-omnifactory-edition) [![MCVersion](http://cf.way2muchnoise.eu/versions/dimensional-edibles-omnifactory-edition.svg)](https://minecraft.curseforge.com/projects/dimensional-edibles-omnifactory-edition)
 
-[![GitHub issues](https://img.shields.io/github/issues/JackyyTV/DimensionalEdibles.svg)](https://github.com/JackyyTV/DimensionalEdibles/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/JackyyTV/DimensionalEdibles.svg)](https://github.com/JackyyTV/DimensionalEdibles/pulls) [![license](https://img.shields.io/github/license/JackyyTV/DimensionalEdibles.svg)](../dev-1.12.2/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/OmnifactoryDevs/DimensionalEdibles.svg)](https://github.com/OmnifactoryDevs/DimensionalEdibles/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/OmnifactoryDevs/DimensionalEdibles.svg)](https://github.com/OmnifactoryDevs/DimensionalEdibles/pulls) [![license](https://img.shields.io/github/license/OmnifactoryDevs/DimensionalEdibles.svg)](../dev-1.12.2/LICENSE)
 
 ---
 
 ## About
 
-This is the GitHub repo for the Dimensional Edibles Minecraft mod, where the source code and issue tracker are in here.
+This is the GitHub repo for the Dimensional Edibles: Omnifactory Edition Minecraft mod, where the source code and issue tracker are in here.
 
-Submit any bug reports / suggestions via [issue tracker](https://github.com/JackyyTV/DimensionalEdibles/issues).
+Submit any bug reports / suggestions via [issue tracker](https://github.com/OmnifactoryDevs/DimensionalEdibles/issues).
 
-[Pull requests](https://github.com/JackyyTV/DimensionalEdibles/pulls) are welcome if you would like to add features / help with bug fixes or translations.
-
----
-
-## Contact Me
-
-- Twitter - [@JackyyTV](https://twitter.com/JackyyTV)
-- Discord - Jacky#1234
-- Twitch - [Jackyy](https://www.twitch.tv/jackyy)
-- Reddit - [JackyyTV](https://www.reddit.com/message/compose/?to=JackyyTV)
+[Pull requests](https://github.com/OmnifactoryDevs/DimensionalEdibles/pulls) are welcome if you would like to add features / help with bug fixes or translations.
 
 ---
 
