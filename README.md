@@ -20,8 +20,8 @@ Submit any bug reports / suggestions via [issue tracker](https://github.com/Omni
 If you would like to set up the workspace yourself to submit PRs of features additions or bug fixes, or compile the mod, here's how you do it.
 
 1. Clone the mod.
-    - HTTPS: `git clone https://github.com/JackyyTV/DimensionalEdibles.git`
-    - SSH: `git clone git@github.com:JackyyTV/DimensionalEdibles.git`
+    - HTTPS: `git clone https://github.com/OmnifactoryDevs/DimensionalEdibles.git`
+    - SSH: `git clone git@github.com:OmnifactoryDevs/DimensionalEdibles.git`
     - Or, use the GitHub desktop app to clone the repo via GUI interface.
 
 2. Setting up the workspace, depending on what you need.
